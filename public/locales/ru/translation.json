@@ -1,0 +1,56 @@
+{
+    "locale": "ru",
+    "nav": {
+        "home": "Главная",
+        "about": "О нас",
+        "clients": "Клиенты",
+        "products": "Продукты",
+        "news": "Новости",
+        "contact": "Контакты",
+        "personal": "Личный кабинет",
+        "signup": "Регистрация",
+        "login": "Вход"
+    },
+    "header": {
+        "title": "Системы хранения данных",
+        "subtitle": "Научно-производственный центр"
+   },
+    "product": {
+        "mainfunctions": "Основные функции",
+        "purpose": "Назначение",
+        "documentation": "Документация"
+    },
+    "products": {
+        "detail": "Узнать больше"
+   },
+   "titleProducts": {
+    "products": "Продукты"
+   },
+   "titleNews": {
+    "news": "Новости"
+   },
+   "news": {
+    "detail": "Подробнее"
+    },
+    "login": {
+        "login": "Вход"
+   },
+   "singup": {
+       "singup": "Регистрация"
+   },
+   "titleClients": {
+    "clients": "Клиенты"
+ },
+ "titleContact": {
+    "contact": "Контакты"
+},
+"titlePersonal": {
+    "personal": "Личный кабинет"
+},
+ "about": {
+    "title": "Научно-производственный центр «МАКС»",
+    "subtitle": "Закрытое акционерное общество",
+    "lisenses": "Лицензии",
+    "year": "год создания"
+}
+}

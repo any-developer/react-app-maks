@@ -1,0 +1,57 @@
+{
+    "locale": "en",
+    "nav": {
+        "home": "Home",
+        "about": "About",
+        "clients": "Сlients",
+        "products": "Products",
+        "news": "News",
+        "contact": "Contact",
+        "personal": "Personal Area",
+        "signup": "SingUp",
+        "login": "LogIn"
+    },
+    "header": {
+         "title": "Storage systems",
+         "subtitle": "Research and Production Center"
+    },
+    "product": {
+        "mainfunctions": "Main Functions",
+        "purpose": "Purpose",
+        "documentation": "Documentation"
+    },
+    "products": {
+         "detail": "More details"
+    },
+    "titleProducts": {
+        "products": "Products"
+    },
+    "titleNews": {
+        "news": "News"
+    },
+    "news": {
+        "detail": "More details"
+   },
+   "login": {
+        "login": "Login"
+   },
+   "singup": {
+       "singup": "Sungup"
+   },
+   "titleClients": {
+      "clients": "Сlients"
+   },
+   "titleContact": {
+       "contact": "Contact"
+   },
+   "titlePersonal": {
+    "personal": "Personal Area"
+},
+   "about": {
+       "title": "Research and Production Center «MAKS»",
+       "subtitle": "Closed joint stock company",
+       "lisenses": "Lisenses",
+       "year": "year of foundation"
+   }
+
+}
