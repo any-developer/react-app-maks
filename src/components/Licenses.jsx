@@ -17,7 +17,7 @@ export const Licenses = () => {
   }
 
   useEffect(() => {
-    fetch('http://localhost:1337/licenses',
+    fetch(`${API_URL}/licenses`,
       {
         metod: 'GET',
         headers: {

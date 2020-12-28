@@ -1,5 +1,6 @@
 import React from 'react'
 import { useState, useEffect } from 'react'
+import { API_URL } from '../config'
 import CardNews from './CardNews'
 
 export default function LatestNews() {
@@ -8,7 +9,7 @@ export default function LatestNews() {
     const [posts, setPosts] = useState(null)
 
     useEffect(() => {
-        fetch('http://localhost:1337/posts',
+        fetch(`${API_URL}/posts`,
             {
                 metod: 'GET',
                 headers: {

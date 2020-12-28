@@ -1,6 +1,7 @@
 import React from 'react'
 import { useState, useEffect } from 'react'
 import CardProducts from './CardProducts'
+import { API_URL } from '../config'
 
 
 export default function LatestProduct() {
@@ -9,7 +10,7 @@ export default function LatestProduct() {
     const [products, setProducts] = useState(null)
 
     useEffect(() => {
-        fetch('http://localhost:1337/products',
+        fetch(`${API_URL}/products`,
             {
                 metod: 'GET',
                 headers: {
